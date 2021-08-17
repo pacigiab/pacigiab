@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @pacigiab
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Da Nang University of science and technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on the Germany
+
+- 📫 How to reach me github
 
 <!---
 pacigiab/pacigiab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
